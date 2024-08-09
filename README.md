@@ -5,7 +5,7 @@
 ## About me：
 
 - ❤ Love Atri Forever ❤
-- Undergraduate, majoring in Artificial Intelligence
+- Undergraduate from Beijing Jiaotong University(BJTU), majoring in Artificial Intelligence
 - Used to be an ACMer, ICPC Regional Ag, CCPC Cu, JSCPC Au
 - Competitive Programming (not usual now)：CodeForces id：[Atri_My_Dear_Moments](https://codeforces.com/profile/Atri_My_Dear_Moments)，[Ayy2](https://codeforces.com/profile/Ayy2) AtCoder id：[Atri](https://atcoder.jp/users/Atri)
 - Preparing for Master, majoring in Software Engineering
